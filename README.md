@@ -2,6 +2,11 @@
 
 A web template for messenger based on HTML,CSS,JS.
 
+## Authors
+
+- Max Base (Programmer)
+- Searching for his name (UI/UX)
+
 ---------
 
 # Max Base
