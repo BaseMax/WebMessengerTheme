@@ -1,6 +1,6 @@
 # Web Messenger Theme
 
-A web template for messenger based on HTML,CSS,JS.
+A web template for messenger based on HTML,CSS.
 
 ![Web Messenger Theme](screen.jpg)
 
